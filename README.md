@@ -1,4 +1,4 @@
-# CSCI 4311 MAD: Customed Layout Assignment
+# CSCI 4311 MAD: Customed Layout Assignment Part 2
 
 Maisarah Binti Ishak (2013112) 
 
