@@ -1,6 +1,8 @@
-# firstproject
+# CSCI 4311 MAD: Customed Layout Assignment
 
-A new Flutter project.
+Maisarah Binti Ishak (2013112) 
+
+This is the second part of Overall Layout Assignment.
 
 ## Getting Started
 
